@@ -37,7 +37,7 @@ Este repositório contém três aplicativos Flutter desenvolvidos como parte das
 
 ### No VS code abra o terminar e clone o repositório
 ```bash
-git clone https://github.com/LeonardoAvilaa/tarefas_flutter
+git clone https://github.com/LeonardoAvilaa/tarefas-flutter
 cd tarefas_flutter
 ```
 ### Acesse a pasta do projeto desejado
